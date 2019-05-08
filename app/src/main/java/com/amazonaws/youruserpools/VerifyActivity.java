@@ -54,7 +54,7 @@ public class VerifyActivity extends AppCompatActivity {
     private CognitoUserAttributes userAttributes;
 
     private String attrReqCode;
-
+//edited
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
